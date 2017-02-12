@@ -1,0 +1,9 @@
+walid=easy
+sami=hello
+easy=done
+rami=easy
+prog=antlr
+teletabez=lala
+nljdc=jlcndslj
+test=test
+hell=hell
